@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/judgeme/static/css/main.bf90e2ab.css",
-    "main.js": "/judgeme/static/js/main.8fdc33c6.js",
-    "index.html": "/judgeme/index.html",
-    "main.bf90e2ab.css.map": "/judgeme/static/css/main.bf90e2ab.css.map",
-    "main.8fdc33c6.js.map": "/judgeme/static/js/main.8fdc33c6.js.map"
+    "main.css": "./static/css/main.bf90e2ab.css",
+    "main.js": "./static/js/main.3b9a4efd.js",
+    "index.html": "./index.html",
+    "main.bf90e2ab.css.map": "./static/css/main.bf90e2ab.css.map",
+    "main.3b9a4efd.js.map": "./static/js/main.3b9a4efd.js.map"
   },
   "entrypoints": [
     "static/css/main.bf90e2ab.css",
-    "static/js/main.8fdc33c6.js"
+    "static/js/main.3b9a4efd.js"
   ]
 }
