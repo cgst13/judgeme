@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/judgeme/static/css/main.bf90e2ab.css",
+    "main.js": "/judgeme/static/js/main.8fdc33c6.js",
+    "index.html": "/judgeme/index.html",
+    "main.bf90e2ab.css.map": "/judgeme/static/css/main.bf90e2ab.css.map",
+    "main.8fdc33c6.js.map": "/judgeme/static/js/main.8fdc33c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf90e2ab.css",
+    "static/js/main.8fdc33c6.js"
+  ]
+}
